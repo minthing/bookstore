@@ -1,0 +1,65 @@
+[
+  {
+    "name": "best",
+    "path": "/best",
+    "component": "/Users/minjeong/Documents/GitHub/bookstore/pages/best.vue",
+    "chunkName": "pages/best",
+    "_name": "_577688c2"
+  },
+  {
+    "name": "content",
+    "path": "/content",
+    "component": "/Users/minjeong/Documents/GitHub/bookstore/pages/content.vue",
+    "chunkName": "pages/content",
+    "_name": "_749d468e"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/minjeong/Documents/GitHub/bookstore/pages/login.vue",
+    "chunkName": "pages/login",
+    "_name": "_039fe4be"
+  },
+  {
+    "name": "my",
+    "path": "/my",
+    "component": "/Users/minjeong/Documents/GitHub/bookstore/pages/my.vue",
+    "chunkName": "pages/my",
+    "_name": "_d7cb07b2"
+  },
+  {
+    "name": "profile",
+    "path": "/profile",
+    "component": "/Users/minjeong/Documents/GitHub/bookstore/pages/profile.vue",
+    "chunkName": "pages/profile",
+    "_name": "_d332f884"
+  },
+  {
+    "name": "search",
+    "path": "/search",
+    "component": "/Users/minjeong/Documents/GitHub/bookstore/pages/search.vue",
+    "chunkName": "pages/search",
+    "_name": "_9e6266ba"
+  },
+  {
+    "name": "signup",
+    "path": "/signup",
+    "component": "/Users/minjeong/Documents/GitHub/bookstore/pages/signup.vue",
+    "chunkName": "pages/signup",
+    "_name": "_8692bfda"
+  },
+  {
+    "name": "user-minthing",
+    "path": "/user/minthing",
+    "component": "/Users/minjeong/Documents/GitHub/bookstore/pages/user/minthing.vue",
+    "chunkName": "pages/user/minthing",
+    "_name": "_504fff16"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/minjeong/Documents/GitHub/bookstore/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_39f841a7"
+  }
+]
