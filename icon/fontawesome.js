@@ -1,13 +1,13 @@
 const solid = [
-  'faDownload',
-  'faUser',
-  'faMagnifyingGlass',
-  'faFaceSmile',
-  'faSquare'
-]
+  "faDownload",
+  "faUser",
+  "faMagnifyingGlass",
+  "faFaceSmile",
+  "faSquare",
+];
 
-const regular = ['faStar']
+const regular = ["faStar"];
 
-const brands = ['faTwitter']
+const brands = ["faTwitter"];
 
-export { solid, regular, brands }
+export { solid, regular, brands };

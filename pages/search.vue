@@ -7,9 +7,9 @@
 
 <script>
 export default {
-  name: 'SearchPage',
+  name: "SearchPage",
   // head(){
   //   return{title: "hello 월드"}
   // }
-}
+};
 </script>

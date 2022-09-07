@@ -4,9 +4,9 @@
 
 <script>
 export default {
-  name: 'ProfilePage',
+  name: "ProfilePage",
   // head(){
   //   return{title: "hello 월드"}
   // }
-}
+};
 </script>
